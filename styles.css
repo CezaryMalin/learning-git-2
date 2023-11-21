@@ -11,3 +11,9 @@ header{
 .main p{
     font-size: 20px;
 }
+.page-footer {
+    margin: 0 auto;
+    color: red; 
+    text-align: center;
+}
+  
