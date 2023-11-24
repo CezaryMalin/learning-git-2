@@ -1,5 +1,5 @@
 
-header{
+header {
     margin: 0 auto;
     text-align: center;
     background: #fff;    
@@ -7,6 +7,7 @@ header{
 .main .container{
     margin: 0 auto;
     text-align: center;
+
 }
 .main p{
     font-size: 20px;
@@ -16,4 +17,3 @@ header{
     color: red; 
     text-align: center;
 }
-  
